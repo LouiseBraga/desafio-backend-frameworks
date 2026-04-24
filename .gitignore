@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Java / Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+*.class
+*.jar
+
+# IDEs (VS Code)
+.vscode/
+.DS_Store
